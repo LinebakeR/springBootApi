@@ -21,6 +21,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<scm.url>https://github.com/LinebakeR/springBootApi</scm.url>
 	</properties>
 
 	<dependencies>
@@ -59,7 +60,10 @@
 	</build>
 
 	<scm>
-		<developerConnection></developerConnection>
+		<connection>scm:git:${scm.url}</connection>
+		<developerConnection>scm:git:${scm.url}</developerConnection>
+		<tag>HEAD</tag>
+		<url>scm:git:${scm.url}</url>
 	</scm>
 
 </project>
