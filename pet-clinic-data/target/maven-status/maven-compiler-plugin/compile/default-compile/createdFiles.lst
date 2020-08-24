@@ -1,8 +1,8 @@
-com\petClinic\model\Pet$PetBuilder.class
-com\petClinic\model\Owner.class
-com\petClinic\model\Vet.class
-com\petClinic\model\PetType$PetTypeBuilder.class
-com\petClinic\model\PetType.class
-com\petClinic\model\Person.class
-com\petClinic\model\Pet.class
-com\petClinic\model\Person$PersonBuilder.class
+com/petClinic/model/Person.class
+com/petClinic/model/Owner.class
+com/petClinic/model/Person$PersonBuilder.class
+com/petClinic/model/PetType.class
+com/petClinic/model/Vet.class
+com/petClinic/model/Pet.class
+com/petClinic/model/PetType$PetTypeBuilder.class
+com/petClinic/model/Pet$PetBuilder.class
